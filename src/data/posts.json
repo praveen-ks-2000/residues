@@ -1,0 +1,63 @@
+[
+    {
+        "id": "1",
+        "title": "The Future of UX: Embracing AI and Machine Learning",
+        "slug": "future-of-ux-ai",
+        "date": "2024-08-02",
+        "author": "Praveen",
+        "tags": [
+            "UX Design",
+            "AI",
+            "Technology"
+        ],
+        "thumbnail": "https://images.unsplash.com/photo-1531297461136-8200b279920b?auto=format&fit=crop&q=80",
+        "content": "future-of-ux-ai.md",
+        "related_slugs": [
+            "designing-for-accessibility"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Designing for Accessibility: A Guide",
+        "slug": "designing-for-accessibility",
+        "date": "2024-07-10",
+        "author": "Praveen",
+        "tags": [
+            "Accessibility",
+            "Design System"
+        ],
+        "thumbnail": "https://images.unsplash.com/photo-1586717791821-3f44a5638d48?auto=format&fit=crop&q=80",
+        "content": "designing-for-accessibility.md",
+        "related_slugs": [
+            "future-of-ux-ai"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Minimalism in UI Design",
+        "slug": "minimalism-in-ui",
+        "date": "2024-05-30",
+        "author": "Praveen",
+        "tags": [
+            "UI Design",
+            "Minimalism"
+        ],
+        "thumbnail": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80",
+        "content": "minimalism-in-ui.md",
+        "related_slugs": []
+    },
+    {
+        "id": "4",
+        "title": "fdas in UI Design",
+        "slug": "fdas-in-ui",
+        "date": "2024-05-30",
+        "author": "Praveen",
+        "tags": [
+            "UI Design",
+            "Minimalism"
+        ],
+        "thumbnail": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80",
+        "content": "fdas-in-ui.md",
+        "related_slugs": []
+    }
+]
